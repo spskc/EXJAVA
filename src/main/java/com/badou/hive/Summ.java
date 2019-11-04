@@ -8,7 +8,7 @@ public class Summ extends UDF {
     public String evaluate(String str){
 
 
-        return  "Hello" + str;
+        return  "Hello1" + str;
     }
 
 }
